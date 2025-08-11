@@ -79,7 +79,7 @@
         import { getAuth, signInAnonymously } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
 
         const firebaseConfig = {
-            apiKey: "AIzaSyCwRjgwJZe1_FK3-LRt2XSuaZippduH9gc",
+            apiKey: "AIza",
             authDomain: "iafranquias20.firebaseapp.com",
             projectId: "iafranquias20",
             storageBucket: "iafranquias20.firebasestorage.app",
